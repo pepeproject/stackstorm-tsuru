@@ -1,6 +1,6 @@
 ---
 ref: tsuru
-name: Tsuru
+name: tsuru
 description: Tsuru.io integration
 keywords:
     - tsuru
