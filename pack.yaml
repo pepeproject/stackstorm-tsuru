@@ -1,0 +1,15 @@
+---
+ref: tsuru
+name: Tsuru
+description: Tsuru.io integration
+keywords:
+    - tsuru
+    - paas
+version: 0.1.0
+python_versions:
+  - "2"
+  - "3"
+author: Globo.com
+email: a-team@corp.globo.com
+contributors:
+  - "Igor Fernandes <igor.frds@gmail.com>"
